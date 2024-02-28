@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my page! I'm currently a PhD candidate major in Data Science at New Jersey Institute of Technology(NJIT), advised by [Prof. Yi Chen](https://web.njit.edu/~ychen/). My research interest focus on applying natural language processing (NLP) and deep learning (DL) methods for healthcare. My current projects include clinical outcome prediction, information retrieval, and content recommendation on clinical notes and user-generated contents.
+Welcome to my page! I'm currently a PhD candidate majoring in Data Science at New Jersey Institute of Technology(NJIT), advised by [Prof. Yi Chen](https://web.njit.edu/~ychen/). My research interest focuses on applying natural language processing (NLP) and deep learning (DL) methods for healthcare. My current projects include clinical outcome prediction, information retrieval, and content recommendation on clinical notes and user-generated contents.
 I received my M.S. at Information Technology and Analytics from Rutgers University in 2018 and B.S at Electrical Engineering and E-Commerce from University of Electronic Science and Technology of China in 2017.
 
-I'm currently seeking for full-time DS/AI/ML position.
+I'm currently seeking a full-time DS/AI/ML position.
 
 Work Experience
 ======
