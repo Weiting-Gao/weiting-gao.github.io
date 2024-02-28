@@ -32,7 +32,7 @@ Data Mining&Anal For Managers (2022.9-2022.12)\\
 Database Systems for Managers (2021.9-2022.5)\\
 Dec Supprt Tool & Tech Mngrs (2021.9-2022.5)\\
 Managing Tech & Innovation (2020.9-2020.12)\\
-Informtn Systems Principles (2020.9-2020.12)\\
+Informtn Systems Principles (2020.9-2020.12)
 
 Service
 ======
@@ -41,13 +41,13 @@ Reviewer for SIGKDD, CIKM, SIGIR, ICDE, WSDM, PVLDB, ECMLPKDD
 Publications
 ======
 1. **Weiting Gao**, Xiangyu Gao, Wenjin Chen, David Foran, and Yi Chen, BioReX: Biomarker Information Extraction Inspired by Aspect-Based Sentiment Analysis. The 28th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2024 [code](https://github.com/NJIT-AI-in-Healthcare/Pathology-Biomarker-Information-Extraction)\\
-Oral presentation at NJIT Leir Research Seminar 2024 \\
-Poster presentation at 2021 NJACTS Scientific Symposium
+***Oral presentation** at NJIT Leir Research Seminar 2024* \\
+***Poster presentation** at 2021 NJACTS Scientific Symposium*
 
 1. Mingda Li, **Weiting Gao**, and Yi Chen. A Topic and Concept Integrated Model for Thread Recommendation in Online Health Communities. The 29th ACM international Conference on Information and Knowledge Management (CIKM), 2020 [code](https://github.com/WeitingGG/Recommender-System-for-OHC-CLIR-CLLIR)
 
 1. **Weiting Gao**, Xiangyu Gao, and Yi Chen. Compositional and Hierarchical Semantic Learning Model for Hospital Readmission Prediction (Working in Progress)
-Oral presentation at INFORMS 2023
+***Oral presentation** at INFORMS 2023*
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
