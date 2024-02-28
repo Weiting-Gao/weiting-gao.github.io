@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,25 +14,25 @@ I'm currently seeking for full-time DS/AI/ML position.
 
 Work Experience
 ======
-Research/Teaching Assistant at NJIT (2019-Now)
-Machine Learning Engineer Intern at Nokia Bell Labs (2023.6-2023.8)
-Data Engineer at Amerilink International Corporation (2018.4-2019.3)
+**Research/Teaching Assistant** at NJIT (2019-Now)\\
+**Machine Learning Engineer Intern** at Nokia Bell Labs (2023.6-2023.8)\\
+**Data Engineer** at Amerilink International Corporation (2018.4-2019.3)
 
 Technical Skills
 ======
-General: Data Processing, Machine Learning, Deep Learning, Data Visualization, Natural Language Processing. 
-Programming: Python, R, C++, MySQL 
-Softwares/Tools: PyTorch, Tensorflow, Keras, Tableau, SPSS, SAS, PowerBI
+**General**: Data Processing, Machine Learning, Deep Learning, Data Visualization, Natural Language Processing. \\
+**Programming**: Python, R, C++, MySQL 
+**Softwares/Tools**: PyTorch, Tensorflow, Keras, Tableau, SPSS, SAS, PowerBI
 
 Teaching Experience
 ======
-Instructor: Quantitative Analysis Appl Bus. Lab (2023.9-Now)
-Teaching Assistant: 
-Data Mining&Anal For Managers (2022.9-2022.12)
-Database Systems for Managers (2021.9-2022.5)
-Dec Supprt Tool & Tech Mngrs (2021.9-2022.5)
-Managing Tech & Innovation (2020.9-2020.12)
-Informtn Systems Principles (2020.9-2020.12)
+Instructor: Quantitative Analysis Appl Bus. Lab (2023.9-Now)\\
+Teaching Assistant: \\
+1. Data Mining&Anal For Managers (2022.9-2022.12)
+1. Database Systems for Managers (2021.9-2022.5)
+1. Dec Supprt Tool & Tech Mngrs (2021.9-2022.5)
+1. Managing Tech & Innovation (2020.9-2020.12)
+1. Informtn Systems Principles (2020.9-2020.12)
 
 Service
 ======
@@ -40,8 +40,8 @@ Reviewer for SIGKDD, CIKM, SIGIR, ICDE, WSDM, PVLDB, ECMLPKDD
 
 Publications
 ======
-1. Weiting Gao, Xiangyu Gao, Wenjin Chen, David Foran, and Yi Chen, BioReX: Biomarker Information Extraction Inspired by Aspect-Based Sentiment Analysis. The 28th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2024 [code](https://github.com/NJIT-AI-in-Healthcare/Pathology-Biomarker-Information-Extraction)
-Oral presentation at NJIT Leir Research Seminar 2024 
+1. Weiting Gao, Xiangyu Gao, Wenjin Chen, David Foran, and Yi Chen, BioReX: Biomarker Information Extraction Inspired by Aspect-Based Sentiment Analysis. The 28th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2024 [code](https://github.com/NJIT-AI-in-Healthcare/Pathology-Biomarker-Information-Extraction)\\
+Oral presentation at NJIT Leir Research Seminar 2024 \\
 Poster presentation at 2021 NJACTS Scientific Symposium
 
 1. Mingda Li, Weiting Gao, and Yi Chen. A Topic and Concept Integrated Model for Thread Recommendation in Online Health Communities. The 29th ACM international Conference on Information and Knowledge Management (CIKM), 2020 [code](https://github.com/WeitingGG/Recommender-System-for-OHC-CLIR-CLLIR)
